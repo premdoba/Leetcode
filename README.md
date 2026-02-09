@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/premdoba/Leetcode/tree/master/0055-jump-game) |
+| [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,4 +36,12 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/premdoba/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
