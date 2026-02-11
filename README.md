@@ -12,6 +12,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/premdoba/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/premdoba/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0441-arranging-coins](https://github.com/premdoba/Leetcode/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/premdoba/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
@@ -47,6 +48,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/premdoba/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/premdoba/Leetcode/tree/master/0441-arranging-coins) |
 ## Two Pointers
 |  |
 | ------- |
