@@ -9,6 +9,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/premdoba/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
@@ -20,6 +21,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/premdoba/Leetcode/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,5 +47,14 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/premdoba/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
