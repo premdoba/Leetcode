@@ -6,6 +6,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/premdoba/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/premdoba/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/premdoba/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/premdoba/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/premdoba/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/premdoba/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/premdoba/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/premdoba/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Math
 |  |
 | ------- |
