@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/premdoba/Leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/premdoba/Leetcode/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -61,6 +62,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/premdoba/Leetcode/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
