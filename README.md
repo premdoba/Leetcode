@@ -30,6 +30,7 @@
 | [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/premdoba/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/premdoba/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/premdoba/Leetcode/tree/master/0055-jump-game) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/premdoba/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/premdoba/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/premdoba/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
