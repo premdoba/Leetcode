@@ -31,6 +31,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/premdoba/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/premdoba/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/premdoba/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/premdoba/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/premdoba/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +85,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/premdoba/Leetcode/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/premdoba/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/premdoba/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
