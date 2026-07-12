@@ -30,6 +30,7 @@
 | [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/premdoba/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1256-rank-transform-of-an-array](https://github.com/premdoba/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/premdoba/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/premdoba/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
@@ -70,11 +71,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/premdoba/Leetcode/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/premdoba/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/premdoba/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1256-rank-transform-of-an-array](https://github.com/premdoba/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/premdoba/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
 |  |
