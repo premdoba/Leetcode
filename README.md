@@ -92,4 +92,8 @@
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/premdoba/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/premdoba/Leetcode/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
