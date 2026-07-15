@@ -59,6 +59,7 @@
 | [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/premdoba/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/premdoba/Leetcode/tree/master/0441-arranging-coins) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/premdoba/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/premdoba/Leetcode/tree/master/1212-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/premdoba/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
