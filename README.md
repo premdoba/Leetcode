@@ -59,6 +59,7 @@
 | [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/premdoba/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/premdoba/Leetcode/tree/master/0441-arranging-coins) |
+| [3859-maximum-product-of-two-digits](https://github.com/premdoba/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/premdoba/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -80,6 +81,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/premdoba/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/premdoba/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/premdoba/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [3859-maximum-product-of-two-digits](https://github.com/premdoba/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
