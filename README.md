@@ -59,6 +59,7 @@
 | [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/premdoba/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/premdoba/Leetcode/tree/master/0441-arranging-coins) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/premdoba/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/premdoba/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/premdoba/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/premdoba/Leetcode/tree/master/1212-sequential-digits) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/premdoba/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
