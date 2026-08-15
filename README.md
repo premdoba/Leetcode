@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/premdoba/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/premdoba/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/premdoba/Leetcode/tree/master/0055-jump-game) |
+| [0169-majority-element](https://github.com/premdoba/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/premdoba/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -73,11 +74,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/premdoba/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/premdoba/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/premdoba/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/premdoba/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/premdoba/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/premdoba/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -105,4 +108,16 @@
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/premdoba/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/premdoba/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/premdoba/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/premdoba/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
