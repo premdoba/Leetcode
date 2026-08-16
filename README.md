@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/premdoba/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/premdoba/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/premdoba/Leetcode/tree/master/0055-jump-game) |
+| [0088-merge-sorted-array](https://github.com/premdoba/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/premdoba/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -68,6 +69,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/premdoba/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/premdoba/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -83,6 +85,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/premdoba/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/premdoba/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/premdoba/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
