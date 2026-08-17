@@ -28,6 +28,7 @@
 | [0048-rotate-image](https://github.com/premdoba/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/premdoba/Leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/premdoba/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/premdoba/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/premdoba/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/premdoba/Leetcode/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/premdoba/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
 | ------- |
