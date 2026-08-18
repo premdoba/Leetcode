@@ -26,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/premdoba/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/premdoba/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/premdoba/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/premdoba/Leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/premdoba/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/premdoba/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -40,6 +41,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/premdoba/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/premdoba/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/premdoba/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
@@ -120,6 +122,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/premdoba/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/premdoba/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
