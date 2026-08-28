@@ -39,6 +39,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/premdoba/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/premdoba/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/premdoba/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/premdoba/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/premdoba/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -157,4 +158,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/premdoba/Leetcode/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/premdoba/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
