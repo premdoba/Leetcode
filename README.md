@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/premdoba/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/premdoba/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3636-check-balanced-string](https://github.com/premdoba/Leetcode/tree/master/3636-check-balanced-string) |
 ## Depth-First Search
 |  |
@@ -127,6 +128,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/premdoba/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/premdoba/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Enumeration
 |  |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/premdoba/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/premdoba/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
