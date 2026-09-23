@@ -61,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/premdoba/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/premdoba/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/premdoba/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3636-check-balanced-string](https://github.com/premdoba/Leetcode/tree/master/3636-check-balanced-string) |
@@ -91,6 +92,7 @@
 | [0088-merge-sorted-array](https://github.com/premdoba/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/premdoba/Leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/premdoba/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/premdoba/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/premdoba/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Hash Table
