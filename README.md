@@ -16,6 +16,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/premdoba/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/premdoba/Leetcode/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/premdoba/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/premdoba/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0238-product-of-array-except-self](https://github.com/premdoba/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/premdoba/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/premdoba/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/premdoba/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/premdoba/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/premdoba/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/premdoba/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/premdoba/Leetcode/tree/master/0014-longest-common-prefix) |
+## Ternary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/premdoba/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
