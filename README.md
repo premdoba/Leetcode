@@ -49,6 +49,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/premdoba/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/premdoba/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/premdoba/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/premdoba/Leetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3227-find-missing-and-repeated-values](https://github.com/premdoba/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -56,6 +57,7 @@
 | [0053-maximum-subarray](https://github.com/premdoba/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/premdoba/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/premdoba/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/premdoba/Leetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0048-rotate-image](https://github.com/premdoba/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/premdoba/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/premdoba/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/premdoba/Leetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3227-find-missing-and-repeated-values](https://github.com/premdoba/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -186,4 +189,8 @@
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/premdoba/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/premdoba/Leetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
