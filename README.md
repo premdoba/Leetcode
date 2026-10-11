@@ -50,6 +50,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/premdoba/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/premdoba/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/premdoba/Leetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/premdoba/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/premdoba/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/premdoba/Leetcode/tree/master/1212-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/premdoba/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/premdoba/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
